@@ -1,4 +1,4 @@
-ECHO is on.
+
 # 🌐 Aastha's Portfolio  
 
 Welcome to my personal portfolio website! 🚀  
@@ -20,7 +20,14 @@ This project showcases my skills, projects, and resume in a clean, responsive de
 🔗 [View Portfolio](https://aastha4502.github.io/AasthaPortfolio)  
 
 ## 📸 Preview  
-(Add screenshots here later)  
+<p align="center">creenshot-des
+  <img src="photo1.jpg" alt="Desktop Screenshot" width="600" style="border-radius:10px; margin-right:10px;" />
+   <img src="photo2.jpg" alt="Desktop Screenshot" width="600" style="border-radius:10px; margin-right:10px;" />
+    <img src="photo3.jpg" alt="Desktop Screenshot" width="600" style="border-radius:10px; margin-right:10px;" />
+     <img src="photo4.jpg" alt="Desktop Screenshot" width="600" style="border-radius:10px; margin-right:10px;" />
+      <img src="photo5.jpg" alt="Desktop Screenshot" width="600" style="border-radius:10px; margin-right:10px;" />
+  
+</p> 
 
 
 ## 📬 Contact  
@@ -29,4 +36,4 @@ This project showcases my skills, projects, and resume in a clean, responsive de
 - **Email:** aasthagoyal1122@gmail.com  
 
 
-## 📂 Folder Structure  
+
