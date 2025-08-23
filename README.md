@@ -18,16 +18,15 @@ This project showcases my skills, projects, and resume in a clean, responsive de
 
 ## 🚀 Live Demo  
 🔗 [View Portfolio](https://aastha4502.github.io/AasthaPortfolio)  
-
 ## 📸 Preview  
-<p align="center">creenshot-des
-  <img src="photo1.jpg" alt="Desktop Screenshot" width="600" style="border-radius:10px; margin-right:10px;" />
-   <img src="photo2.jpg" alt="Desktop Screenshot" width="600" style="border-radius:10px; margin-right:10px;" />
-    <img src="photo3.jpg" alt="Desktop Screenshot" width="600" style="border-radius:10px; margin-right:10px;" />
-     <img src="photo4.jpg" alt="Desktop Screenshot" width="600" style="border-radius:10px; margin-right:10px;" />
-      <img src="photo5.jpg" alt="Desktop Screenshot" width="600" style="border-radius:10px; margin-right:10px;" />
-  
-</p> 
+
+<p align="center">
+  <img src="photo1.jpg" alt="Screenshot 1" width="300" />
+  <img src="photo2.jpg" alt="Screenshot 2" width="300" />
+  <img src="photo3.jpg" alt="Screenshot 3" width="300" />
+  <img src="photo4.jpg" alt="Screenshot 4" width="300" />
+  <img src="photo5.jpg" alt="Screenshot 5" width="300" />
+</p>
 
 
 ## 📬 Contact  
