@@ -5,7 +5,7 @@ const projectList = [
     title: "Portfolio with Feedback",
     description: "Responsive portfolio with integrated feedback form for user engagement.",
     tech: ["HTML","CSS","JavaScript","React","Web3Forms"],
-    link: "#"
+    link: "https://aastha4502.github.io/AasthaPortfolio/"
   },
   {
     title: "MenstaMate",
