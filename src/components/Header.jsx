@@ -10,8 +10,12 @@ export default function Header() {
         <p className="mt-3 text-slate-300">Dedicated Web Developer • Problem Solver • Tech Enthusiast</p>
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
           <a href="https://www.linkedin.com/in/aastha-goyal-94a088281" target="_blank" rel="noreferrer" className="btn-primary">LinkedIn</a>
-          <a href="https://github.com/aastha4502" target="_blank" rel="noreferrer" className="btn-outline">GitHub</a>
-          <a href="\resume.pdf" download className="btn-outline">Download Resume</a>
+          <a href="https://github.com/aastha4502" target="_blank" rel="noreferrer" className="btn-primary">GitHub</a>
+          <a href={`${import.meta.env.BASE_URL}resume.pdf`}  download="Aastha_Goyal_Resume.pdf" className="btn-primary">Download Resume</a>
+          <a href={`${import.meta.env.BASE_URL}resume.pdf`} target="_blank" rel="noreferrer" className="btn-primary">View Resume</a>
+
+
+
         </div>
       </div>
     </header>
